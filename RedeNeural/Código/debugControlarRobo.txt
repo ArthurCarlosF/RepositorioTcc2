@@ -1,11 +1,11 @@
 _________Lógica de Controle______________
-setPoint X: 9.061869109904215
-setPoint y: -17.277145522909233
-X Atual : -8.76070619
-Y Atual : 21.34313107
-Comando: [87 90 90 89 90 90 89 90 90 90 89 87]
-Erro em x: 17.0
-Erro em y: 38.0
+setPoint X: -10
+setPoint y: 27.012270540990812
+X Atual : 33.14648151
+Y Atual : -12.24004626
+Comando: [90 90 90 90 90 89 88 89 89 90 90 90]
+Erro em x: 43.0
+Erro em y: 39.0
 Erro não aceitavel: registrando penalidade
-Pontuação : 0.0
-Numero de Acoes : 4
+Pontuação : 0.16497
+Numero de Acoes : 680
